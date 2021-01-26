@@ -6,23 +6,6 @@ Hér mun Járngerður birta teiknimyndasögurnar sínar.
 
 Þessi síða er skrifuð í markdown.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and [Image](/blob/gh-pages/fb513f94-fa0f-4937-8ae8-b1c6e1336a85.jpg)
-```
 ![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/fb513f94-fa0f-4937-8ae8-b1c6e1336a85.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
