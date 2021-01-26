@@ -6,7 +6,7 @@ Hér mun Járngerður birta teiknimyndasögurnar sínar.
 
 Þessi síða er skrifuð í markdown.
 
-![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/fb513f94-fa0f-4937-8ae8-b1c6e1336a85.jpg)
+![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/fb513f94-fa0f-4937-8ae8-b1c6e1336a85.jpg?raw=true)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
