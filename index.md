@@ -12,10 +12,12 @@ Hér mun Járngerður birta teiknimyndasögurnar sínar.
 
 #### Dreki
 ![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/dreki1.jpg?raw=true)
+
 Járngerður fékk bók með kennslu í að teikna ýmiskonar dreka í afmælisgjöf. Þetta er önnur tveggja mynda sem hún hefur gert með þeirri kunnáttu.
 
 #### Dreki 2
 ![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/dreki2.jpg?raw=true)
+
 Járngerður fékk bók með kennslu í að teikna ýmiskonar dreka í afmælisgjöf. Þetta er önnur tveggja mynda sem hún hefur gert með þeirri kunnáttu.
 
 
