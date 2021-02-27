@@ -6,14 +6,17 @@ Hér mun Járngerður birta teiknimyndasögurnar sínar.
 
 Þessi síða er skrifuð í markdown.
 
+#### Tré
 ![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/fb513f94-fa0f-4937-8ae8-b1c6e1336a85.jpg?raw=true)
+Þessa mynd teiknaði hún í myndmennt í skólanum og eyddi löngum tíma í að gera uppköst og draga í. Eins og sjá má er árangurinn eftir því.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Dreki
+![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/dreki1.jpg?raw=true)
+Járngerður fékk bók með kennslu í að teikna ýmiskonar dreka í afmælisgjöf. Þetta er önnur tveggja mynda sem hún hefur gert með þeirri kunnáttu.
 
-### Jekyll Themes
+#### Dreki 2
+![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/dreki2.jpg?raw=true)
+Járngerður fékk bók með kennslu í að teikna ýmiskonar dreka í afmælisgjöf. Þetta er önnur tveggja mynda sem hún hefur gert með þeirri kunnáttu.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thorgnyr/j-cartoon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
