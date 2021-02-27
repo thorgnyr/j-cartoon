@@ -1,6 +1,6 @@
 ## Teiknimyndasögur Járngerðar
 
-Hér mun Járngerður birta teiknimyndasögurnar sínar.
+Hér mun Járngerður birta teikningar og teiknimyndasögur.
 
 ### Markdown
 
