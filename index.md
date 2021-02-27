@@ -8,6 +8,7 @@ Hér mun Járngerður birta teiknimyndasögurnar sínar.
 
 #### Tré
 ![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/fb513f94-fa0f-4937-8ae8-b1c6e1336a85.jpg?raw=true)
+
 Þessa mynd teiknaði hún í myndmennt í skólanum og eyddi löngum tíma í að gera uppköst og draga í. Eins og sjá má er árangurinn eftir því.
 
 #### Dreki
