@@ -7,7 +7,7 @@ Hér mun Járngerður birta teikningar og teiknimyndasögur.
 <details>
 <summary>Smelltu hér til að lesa Drekagrín</summary>
 <br>
-<img src="https://github.com/thorgnyr/j-cartoon/blob/gh-pages/drekagrin1.png" alt="Drekagrín #1">
+<img src="drekagrin1.png" alt="Drekagrín #1">
 </details>
 
 ### Stakar myndir
