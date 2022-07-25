@@ -2,10 +2,15 @@
 
 Hér mun Járngerður birta teikningar og teiknimyndasögur.
 
-### Markdown
+### Drekagrín (Teiknimyndasaga)
 
-Þessi síða er skrifuð í markdown.
+<details>
+<summary>Smelltu hér til að lesa Drekagrín</summary>
+<br>
+<img src="https://github.com/thorgnyr/j-cartoon/blob/gh-pages/drekagrin1.png" alt="Italian Trulli">
+</details>
 
+### Stakar myndir
 #### Tré
 ![Mynd sem J teiknaði](https://github.com/thorgnyr/j-cartoon/blob/gh-pages/fb513f94-fa0f-4937-8ae8-b1c6e1336a85.jpg?raw=true)
 
