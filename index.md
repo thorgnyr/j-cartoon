@@ -7,6 +7,7 @@ Hér mun Járngerður birta teikningar og teiknimyndasögur.
 <details>
 <summary>Smelltu hér til að lesa Drekagrín</summary>
 <br>
+<img src="drekagr%C3%ADn%202%20-%20s%C3%B3larv%C3%B6rn.png" alt="Drekagrín #1">
 <img src="drekagrin1.png" alt="Drekagrín #1">
 </details>
 
